@@ -1,0 +1,21 @@
+.country{
+    border: 2px solid tomato;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    width:350px ;
+    text-align: center;
+}
+.country-visited{
+    background-color: gray;
+}
+.text{
+    font-size: smaller;
+    text-align: center;
+    gap: 0px;
+}
+.img{
+    height: 100px;
+    width:200px;
+}

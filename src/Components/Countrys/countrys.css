@@ -1,0 +1,9 @@
+.width_control{
+    text-align: center;
+}
+.countrys{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: auto;
+    align-items: center;
+}
